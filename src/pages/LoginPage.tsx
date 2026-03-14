@@ -145,10 +145,10 @@ const BRAND_NAME = "Nexon";
 const BRAND_SUBTITLE = "Secure Admin Panel";
 const BRAND_TAGLINE = "Privacy First. Security Always.";
 
-const TELEGRAM_USERNAME = "ownerofcardhouse";
+const TELEGRAM_USERNAME = "nexonservicereal";
 const TELEGRAM_HELP_MESSAGE = "Hi Sir, I need help with my panel. Please solve my problem.";
 const TELEGRAM_ORDER_MESSAGE = "Hi Sir, I need a new panel APK/service. Please share the details.";
-const TELEGRAM_CHANNEL_URL = "https://t.me/zerotrace2026";
+const TELEGRAM_CHANNEL_URL = "https://t.me/nexonrealchannel";
 
 function openTelegramMessage(message: string) {
   const encoded = encodeURIComponent(message);
